@@ -1,4 +1,4 @@
-if game.PlaceId == 4399032158  then 
+if game.PlaceId == 4483381587  then 
 loadstring(game:HttpGet("https://pastebin.com/raw/EnqBEkeV"))()
   local Allowed = {
   [16867953] = true,
