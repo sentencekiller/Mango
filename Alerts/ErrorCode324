@@ -1,2 +1,3 @@
+-- This error is because the player is in a group not authorized for MANGO mods!
 local AlertErrorCode324 = "Something Went Wrong, Try Again Please Soon."
 return AlertErrorCode324
