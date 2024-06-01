@@ -1,3 +1,2 @@
--- This error is because the player is in a group not authorized for MANGO mods!
 local AlertErrorCode324 = "You are in a group not authorized by the MANGO moderators. Please try again or contact us."
 return AlertErrorCode324
