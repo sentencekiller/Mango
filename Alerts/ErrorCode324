@@ -1,4 +1,2 @@
 local AlertData = "Something Went Wrong, Please Try Again Later"
 return AlertData
-local ErrorCodeData = "(Error Code: 324)"
-return ErrorCodeData
