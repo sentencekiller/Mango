@@ -1,2 +1,2 @@
-local AlertErrorCode324 = "You are in a group not authorized by the MANGO moderators. Please try again or contact us."
+local AlertErrorCode324 = "You are in a group not authorized by the MAN<font color=\"rgb(255, 183, 0)\">GO</font> moderators. Please try again or contact us."
 return AlertErrorCode324
