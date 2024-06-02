@@ -1,2 +1,2 @@
-local BetaTextData = "This is a Beta Version, may some functions will not work well!"
+local BetaTextData = "This is a Beta version. Please wait for updates. The script is not fully developed, and some features may not work correctly."
 return BetaTextData
