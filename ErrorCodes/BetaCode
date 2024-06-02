@@ -1,0 +1,2 @@
+local BetaCodeText = "(Error Code: Unknow)"
+return BetaCodeText
