@@ -1,0 +1,2 @@
+local BetaTextData = "This is a BETA version. Please wait for updates. The script is not 100% developed, and some features may not work correctly."
+return BetaTextData
