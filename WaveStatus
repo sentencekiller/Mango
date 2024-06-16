@@ -1,0 +1,2 @@
+local WaveStatus = "<font color=\"rgb(0, 0, 255)\">Release Soon!</font>"
+return WaveStatus
