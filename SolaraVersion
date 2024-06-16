@@ -1,0 +1,2 @@
+local SolaraVersion = "2.32"
+return SolaraVersion
