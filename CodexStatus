@@ -1,0 +1,2 @@
+local CodexStatus = "<font color=\"rgb(0, 255, 0)\">Working</font>"
+return CodexStatus
