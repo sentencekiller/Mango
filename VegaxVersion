@@ -1,2 +1,2 @@
-local VegaxVersion = "Roblox 2.621"
+local VegaxVersion = "Roblox v2.621"
 return VegaxVersion
