@@ -1,5 +1,5 @@
-local SynapseData = {
+{
 	Version = "v1.2.5.5.6.4.3.",
 	Status = "<font color=\"rgb(0, 255, 0)\">Working</font>"
 }
-return SynapseData
+
