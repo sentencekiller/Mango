@@ -1,2 +1,2 @@
-local WaveStatus = "<font color=\"rgb(255, 255, 255)\">Release Soon!</font>"
+local WaveStatus = "<font color=\"rgb(255, 255, 255)\">Unreleased</font>"
 return WaveStatus
