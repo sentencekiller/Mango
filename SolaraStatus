@@ -1,0 +1,2 @@
+local SolaraStatus = "<font color=\"rgb(0, 255, 0)\">Working</font>"
+return SolaraStatus
