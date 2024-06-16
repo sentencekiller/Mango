@@ -1,3 +1,2 @@
 local CodexVersion = "Roblox v2.621"
 return CodexVersion
-print("Codex Version: "..CodexVersion)
