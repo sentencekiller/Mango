@@ -1,0 +1,3 @@
+SolaraVersion = "2.32"
+return SolaraVersion
+print("Solara Version: "..SolaraVersion)

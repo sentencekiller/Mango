@@ -1,0 +1,3 @@
+WaveVersion = "v1"
+return WaveVersion
+print("Wave Version: "..WaveVersion)
